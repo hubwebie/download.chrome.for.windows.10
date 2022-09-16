@@ -1,6 +1,6 @@
 # Download chrome for windows 10
 
-[![download chrome for windows 10](red2.png)](https://github.com/hubwebie/download.chrome.for.windows.10)
+[![download chrome for windows 10](redd.png)](https://github.com/hubwebie/download.chrome.for.windows.10)
 
 * You can go to https://www.google.com/chrome/, and click the Download Chrome Accept the download term of service and it will start downloading the Chrome browser.
 
